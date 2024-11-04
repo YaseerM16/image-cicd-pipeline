@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   res.send(
-    "Hello, This is From Server Image :) --> AFTER the CD Pipelines :))"
+    "Hello, This is From Server Image :) --> AFTER COINTINTOIE the CD Pipelines :))"
   );
 });
 //comment for sdffs
